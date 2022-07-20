@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ghost Bat 101</h1>
 <p align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=8000&color=2BF744&center=true&vCenter=true&width=600&lines=An+Undergradute+student+from+AIUB.;Doing+B.Sc+in+CSE.;Passionate+about+Data+science%2C+Dev+works+and+IoT.;Open+for+Collab."></p>
-<h3 align="center">An Undergradute student doing B.Sc in Computer Science and Engineering. Passionate about Data science, Dev works and IoT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostbat101&label=Profile%20views&color=0e75b6&style=flat" alt="ghostbat101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostbat101" alt="ghostbat101" /></a> </p>
-
+<fieldset>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostbat101" alt="ghostbat101" /></a> </p>
+</fieldset>
 - 🔭 I’m currently working on [Animu](https://github.com/LightYagami200/Animu)
 
 - 🌱 I’m currently learning **PHP, OpenGL and Assembly**
