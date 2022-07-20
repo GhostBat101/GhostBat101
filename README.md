@@ -22,9 +22,9 @@
 
 </fieldset><br><br>
 
-<h3 align="left">Sites:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kamruzzaman uzzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamruzzaman uzzal" height="30" width="40" /></a><a href="https://kaggle.com/ghostbat101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghostbat101" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamruzzaman uzzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamruzzaman uzzal" height="30" width="40" /></a><a href="https://kaggle.com/ghostbat101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ghostbat101" height="30" width="40" /></a><a href="https://dev.to/ghost_bat_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghost_bat_101" height="30" width="40" /></a>
 </p><br>
 <div>
   <h3 align="left">Languages and Tools:</h3>
