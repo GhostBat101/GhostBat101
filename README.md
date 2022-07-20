@@ -69,4 +69,4 @@
        </p>
      <br>
   </div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ghostbat101&label=Profile%20views&color=0e75b6&style=flat" alt="ghostbat101" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=GhostBat101&label=Profile%20views&color=0e75b6&style=flat" alt="GhostBat101" /> </p>
