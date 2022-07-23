@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **PHP, OpenGL and Assembly**
 
-- 💭 My Field of Interests **Data science, Deep learning, Game Dev, Web Dev, Embedded system and IoT.**
+- 💭 My Field of Interests are **Data science, Deep learning, Game Dev, Web Dev, Embedded system and IoT.**
 
 - 💬 Ask me about **Pandas, NumPy, Rust, C/C++ and Python**
 
-- 📫 How to reach me: **kamruzzaman080@pm.me** and **<a href= "http://telegram.me/Ghost_bat_101"> Ghost_bat_101 </a>**
+- 📫 How to reach me: Email: **kamruzzaman080@pm.me** and Telegram: **<a href= "http://telegram.me/Ghost_bat_101"> Ghost_bat_101 </a>**
 
 - ⚡ Fun fact **I think I am good at solving problems and I also think I am funny 😁**
 
