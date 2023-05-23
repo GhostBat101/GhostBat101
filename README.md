@@ -57,10 +57,7 @@
 <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
-        <p align="center">
-          <a href="https://github.com/GhostBat101/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostBat101&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="GhostBat101 :: Top Langs" /></a>
-        </p>
+        
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GhostBat101&show_icons=true&theme=gruvbox&hide_border=true" />
