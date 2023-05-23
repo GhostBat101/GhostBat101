@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Animu](https://github.com/LightYagami200/Animu)
 
-- 🌱 I’m currently learning **PHP, OpenGL and Assembly**
+- 🌱 I’m currently learning **Prompt engineerin, OpenGL and Assembly**
 
-- 💭 My Field of Interests are **Data science, Deep learning, Game Dev, Web Dev, Embedded system and IoT.**
+- 💭 My Field of Interests are **Data science, AI, Deep learning, Game Dev, Web Dev, Embedded system and IoT.**
 
-- 💬 Ask me about **Pandas, NumPy, Rust, C/C++ and Python**
+- 💬 Ask me about **Prompt Engineerin, Rust, C/C++ and Python**
 
 - 📫 How to reach me: Email: **kamruzzaman080@pm.me** and Telegram: **<a href= "http://telegram.me/Ghost_bat_101"> Ghost_bat_101 </a>**
 
