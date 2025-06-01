@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ghost Bat 101</h1>
-<p align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=2BF744&center=true&vCenter=true&width=600&lines=An+Undergradute+student+from+AIUB.;Doing+B.Sc+in+CSE.;Passionate+about+Data+science%2C+Dev+works+and+IoT.;Open+for+Collab."></p>
+<p align = "center"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=2BF744&center=true&vCenter=true&width=600&lines=A+Freshly+graduate+from+AIUB+with+a+B.Sc+in+CSE.;Passionate+about+Data+science%2C+Dev+works+and+IoT.;Open+for+Collab."></p>
 
 <fieldset>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostbat101" alt="ghostbat101" /></a> </p>
@@ -8,15 +8,11 @@
 <fieldset>
   <legend>Short Bio:</legend>
 
-- 🔭 I’m currently working on [Animu](https://github.com/LightYagami200/Animu)
-
-- 🌱 I’m currently learning **Prompt engineerin, OpenGL and Assembly**
+- 🌱 I’m currently learning **Prompt engineerin, OpenGL and Game Dev with unity**
 
 - 💭 My Field of Interests are **Data science, AI, Deep learning, Game Dev, Web Dev, Embedded system and IoT.**
 
-- 💬 Ask me about **Prompt Engineerin, Rust, C/C++ and Python**
-
-- 📫 How to reach me: Email: **kamruzzaman080@pm.me** and Telegram: **<a href= "http://telegram.me/Ghost_bat_101"> Ghost_bat_101 </a>**
+- 📫 How to reach me: Email: **kamruzzaman080@pm.me**
 
 - ⚡ Fun fact **I think I am good at solving problems and I also think I am funny 😁**
 
