@@ -33,12 +33,4 @@ I'm an AI/ML engineer focused on **large language models**, **image generation m
 
 ---
 
-### Connect
-
-<a href="https://linkedin.com/in/kamruzzaman-uzzal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/linked-in-alt.svg" height="25" width="35"/></a>
-<a href="https://kaggle.com/ghostbat101" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/kaggle.svg" height="25" width="35"/></a>
-<a href="https://dev.to/ghost_bat_101" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/icons/Social/devto.svg" height="25" width="35"/></a>
-
----
-
 <p align="right"><img src="https://komarev.com/ghpvc/?username=GhostBat101&label=Profile+views&color=0e75b6&style=flat"/></p>
