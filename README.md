@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamruzzaman Uzzal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=2BF744&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer+%7C+B.Sc+CSE+from+AIUB;Working+on+LLMs%2C+Image+Gen+%26+AI+Pipelines;Prompt+Engineering+%7C+Fine-tuning+%7C+RAG+Systems;Open+to+Collabs+and+AI+Opportunities">
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Spray+Paint&pause=1000&color=00F74C&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Software+Engineer;CSE+Graduate+%7C+LLM+%26+RAG+Systems;Web%2C+Software+%26+Mobile+App+Dev;Generative+AI+%26+Diffusion+Models;Prompt+Engineering+%7C+Agentic+Workflows;Open+to+Dev+%26+AI+Collaborations" alt="Typing SVG">
 </p>
 
 ---
