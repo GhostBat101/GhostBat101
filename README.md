@@ -24,47 +24,16 @@ Computer Science & Engineering graduate and **AI/ML Engineer** focused on **Larg
 
 ---
 
-### 🛠️ Project Categories & Applications
+### 🛠️ Technical Stack & Architecture
 
-**Full-Stack Web Applications**  
-`Next.js` `ASP.NET Core` `TypeScript` `React` `RESTful APIs` `Role-Based Access Control (RBAC)` `JWT Authentication` `Entity Framework Core`
-
-**AI/ML Research & Production**  
-`Image Classification` `Multimodal ML Models` `Hybrid CNN-Text Models` `GGUF Model Integration` `Local AI Inference` `Embedding-Based Search` `Beat Sheet Generation Algorithms` `Character Relationship Analysis`
-
-**Desktop & UI Development**  
-`Tauri` `Windows 11 Snap Resilience` `Dark Theme Design` `IMDb Data Scraping` `Offline-First Architecture` `Developer SDKs` `npm Package Publishing`
-
-**Systems & Backend Engineering**  
-`PostgreSQL` `SQLite` `Dual-Database Architecture` `Docker Compose Orchestration` `Unit Testing (xUnit)` `Database Migrations` `Automated Seeding` `PBKDF2 Security`
-
-**IoT & Hardware**  
-`Arduino` `Embedded Systems` `Sensor Integration` `Industrial Monitoring` `Real-Time Data Collection`
-
-**Developer Tools & Automation**  
-`Discord Bot Development` `Model Context Protocol (MCP)` `npm Package Distribution` `GitHub Packages` `CLI Automation`
-
----
-
-### Core Stack & Technologies
-
-**AI / ML & Data Science**  
-`PyTorch` `TensorFlow` `Hugging Face Transformers` `Diffusers` `scikit-learn` `Pandas` `Seaborn` `AI Prompt Engineering` `AI Workflow Automation` `RAG Pipelines` `GGUF Models` `Llama` `Qwen` `EfficientNet` `ResNet50`
-
-**Languages**  
-`Python` `C++` `Rust` `C#` `SQL` `JavaScript` `TypeScript` `PHP` `HTML5/CSS3`
-
-**Web Frameworks & Tools**  
-`Next.js 15+` `React 19` `REST APIs` `Tailwind CSS` `Bootstrap` `SASS` `Git / GitHub` `Svelte` `npm/Node.js`
-
-**Infrastructure, Tools & Engineering**  
-`Docker` `Docker Compose` `Azure` `Git` `Linux` `Agile / Scrum` `Technical Documentation & Specs` `QA / UAT Testing` `OOP` `Clean Architecture` `N-Tier Architecture` `Automated Testing`
-
-**Databases**  
-`MySQL` `MongoDB` `Oracle` `SQL Server` `PostgreSQL` `SQLite` `Entity Framework Core`
-
-**Emerging Technologies**  
-`Model Context Protocol (MCP)` `Tauri` `Save the Cat! Framework` `Three-Act Structure` `Narrative Algorithms`
+| Domain | Technologies & Frameworks | Specializations & Patterns |
+| :--- | :--- | :--- |
+| **Languages** | Python, C#, TypeScript, JavaScript, Rust, C++, SQL | Object-Oriented Design, Type Safety, Asynchronous Programming |
+| **AI / ML & Vision** | PyTorch, Hugging Face, Transformers, scikit-learn, GGUF | Local LLM Inference (Llama, Qwen), Hybrid CNN-Text, RAG, Semantic Embeddings |
+| **Web & Desktop** | Next.js, React, ASP.NET Core, Tauri, Tailwind CSS | Offline-First Architecture, RESTful APIs, Role-Based Access Control (RBAC), JWT |
+| **Data & Storage** | PostgreSQL, SQLite, MongoDB, MySQL, EF Core | Dual-Database Architectures, Automated Seeding, Schema Migrations |
+| **DevOps & Tooling** | Docker, Docker Compose, Linux, Azure, Git, xUnit | Model Context Protocol (MCP), CI/CD, Containerization, Automated Testing |
+| **Specialized Domains** | Arduino, Embedded Systems, CLI Automation | Real-Time Sensor Telemetry, Narrative & Graph Algorithms, Developer Tooling |
 
 ---
 
