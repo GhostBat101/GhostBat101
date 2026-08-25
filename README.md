@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&pause=1000&color=00F74C&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer+%7C+Software+Engineer;CSE+Graduate+%7C+LLM+%26+RAG+Systems;Web%2C+Software+%26+Mobile+App+Dev;Generative+AI+%26+Diffusion+Models;Prompt+Engineering+%7C+Agentic+Workflows;Open+to+Dev+%26+AI+Collaborations" alt="Typing SVG">
 </p>
-
 ---
 
 ### About Me
