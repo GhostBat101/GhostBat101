@@ -20,7 +20,6 @@ Computer Science & Engineering graduate and **AI/ML Engineer** focused on **Larg
 
 📬 **Reach me:**
 - **Email:** [kamruzzaman080@protonmail.com](mailto:kamruzzaman080@protonmail.com)
-- **LinkedIn:** [linkedin.com/in/kamruzzaman-uzzal-4a3945177](https://www.linkedin.com/in/kamruzzaman-uzzal-4a3945177/)
 
 ---
 
