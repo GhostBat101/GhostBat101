@@ -11,72 +11,72 @@
 
 ### About Me
 
-Computer Science & Engineering graduate and **Frontend Developer**, building both creative/interactive websites (motion, WebGL, custom interaction) and functional business sites (e-commerce, landing pages, brand sites).
+I'm a Computer Science & Engineering graduate working as a Frontend Developer. I build two kinds of things: creative, interactive websites (motion, WebGL, custom animation) and functional business sites like e-commerce stores, landing pages, and brand sites that just need to work well and convert visitors.
 
-**Current side project:** on device OCR for Android, running text recognition locally without relying on cloud APIs. A computer vision deep-dive I'm actively building outside client work.
+Current side project: on-device OCR for Android. Getting text recognition to run locally on a phone, no internet or cloud API needed. It's a computer vision problem I'm working on currently.
 
-Previously worked professionally as an **AI/ML Engineer**, focused on LLMs, RAG pipelines, and generative AI systems. That experience still shows up in how I approach problems, and I keep tinkering with small models and AI tooling as a hobby, just not my current professional focus.
+Before this, I worked as a Technical Business Analyst and worked with AI/ML. Fine-tuning models, building RAG systems, working with LLMs. I don't do that professionally anymore, but I still mess around with small models and AI tools in my free time.
 
 ---
 
-### 🎯 Current Focus
+### 🎯 What I'm Working On
 
-- 🖥️ Building creative and functional frontend projects — interactive web experiences and real-world business sites (e-commerce, landing pages, brand sites)
-- 📱 Developing **on-device OCR for Android** — local text recognition, no cloud dependency
-- 🔍 Exploring computer vision techniques for mobile-constrained environments (model size, speed, offline inference)
-- 🤝 Open for freelance projects, collaborations, and contract work in frontend development and computer vision
+- Frontend work, both the creative/interactive kind and the practical business-site kind
+- On-device OCR for Android
+- Picking up computer vision basics along the way, mostly around getting models to run fast and offline on weaker hardware
+- Open to freelance work and collaborations, mainly in frontend, sometimes computer vision
 
 📬 **Reach me:**
 - **Email:** [kamruzzaman080@protonmail.com](mailto:kamruzzaman080@protonmail.com)
 
 ---
 
-### 🕰️ Past Experience
+### 🕰️ Past Work
 
-- Worked as an AI/ML Engineer focused on **Large Language Models (LLMs)**, **Generative AI**, and **end-to-end AI pipelines**
-- Fine-tuned transformer architectures, built **RAG (Retrieval-Augmented Generation)** systems, and engineered prompts for production applications
-- Produced 30+ technical documentation assets, internal knowledge bases, and AI-assisted automation pipelines
-- Experience in technical business analysis, translating business requirements into technical specs, and software QA/UAT testing
-
----
-
-### 🎨 Hobby Projects
-
-- Tinkering with and fine-tuning small AI/ML models for fun, outside of professional work
-- Embedded systems and IoT experiments (Arduino, sensor telemetry)
-- Occasional diffusion model / generative AI experimentation
+- Worked professionally as an analyst. LLMs, RAG systems, generative AI.
+- Fine tuned transformer models and built prompt-based tools for real applications
+- Wrote a lot of technical documentation and internal knowledge base materials
+- Did some business analysis work too. Turning what a client wants into an actual technical spec, plus QA/testing
 
 ---
 
-### 🛠️ Technical Stack & Architecture
+### 🎨 Just for Fun
 
-**Frontend & Web (current focus)**
+- Fine tuning and tinkering with small AI models, no real goal beyond curiosity
+- Arduino and embedded electronics. Sensors, small IoT builds
+- Occasionally messing with diffusion models and image generation
 
-| Domain | Technologies & Frameworks | Specializations & Patterns |
+---
+
+### 🛠️ Stack
+
+**Frontend & Web (what I do now)**
+
+| Domain | Tools | Notes |
 | :--- | :--- | :--- |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, Tailwind CSS | Interactive/Creative Web, GSAP, Three.js, Responsive & Offline-First Design |
-| **Web & Desktop** | ASP.NET Core, Tauri | RESTful APIs, Role-Based Access Control (RBAC), JWT |
-| **Data & Storage** | PostgreSQL, SQLite, MongoDB, MySQL, EF Core | Schema Migrations, Automated Seeding |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Tailwind CSS | Interactive/creative builds, GSAP, Three.js, responsive design |
+| **Web & Desktop** | ASP.NET Core, Tauri | APIs, auth (JWT, role-based access) |
+| **Data & Storage** | PostgreSQL, SQLite, MongoDB, MySQL, EF Core | Schema design, migrations |
 
-**Computer Vision (current focus)**
+**Computer Vision (what I'm learning now)**
 
-| Domain | Technologies & Frameworks | Specializations & Patterns |
+| Domain | Tools | Notes |
 | :--- | :--- | :--- |
-| **Computer Vision** | PyTorch, OpenCV, ONNX | On-Device OCR, Mobile Model Optimization, Offline Inference |
+| **Computer Vision** | PyTorch, OpenCV, ONNX | On-device OCR, running models offline on phones |
 
-**AI/ML — Past Work & Hobby**
+**AI/ML (past work, now a hobby)**
 
-| Domain | Technologies & Frameworks | Specializations & Patterns |
+| Domain | Tools | Notes |
 | :--- | :--- | :--- |
-| **AI / ML** | PyTorch, Hugging Face, Transformers, scikit-learn, GGUF | Local LLM Inference (Llama, Qwen), RAG, Semantic Embeddings |
-| **Specialized/Embedded** | Arduino, Embedded Systems, CLI Automation | Real-Time Sensor Telemetry, IoT |
+| **AI / ML** | PyTorch, Hugging Face, Transformers, scikit-learn, GGUF | Local LLMs (Llama, Qwen), RAG, embeddings |
+| **Embedded** | Arduino, embedded systems, CLI tools | Sensor projects, IoT tinkering |
 
-**Languages & Tooling**
+**Languages & Tools**
 
-| Domain | Technologies & Frameworks |
+| Domain | Tools |
 | :--- | :--- |
 | **Languages** | Python, C#, TypeScript, JavaScript, Rust, C++, SQL |
-| **DevOps & Tooling** | Docker, Docker Compose, Linux, Azure, Git, xUnit |
+| **DevOps** | Docker, Docker Compose, Linux, Azure, Git, xUnit |
 
 ---
 
