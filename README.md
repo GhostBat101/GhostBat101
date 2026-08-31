@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamruzzaman Uzzal</h1>
+<h1 align="center">Hi 👋, I'm Kamruzzaman Uzzal (GhostBat101)</h1>
 
 ---
 
